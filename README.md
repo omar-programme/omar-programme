@@ -1,0 +1,5 @@
+- 👋 Hi, I’m omar khaled
+- 👀 I’m interested in git hub
+- 🌱 I’m currently learning html, css,and js
+- 💞️ I’m looking to develope my wesite programming
+- 📫 lets learn together 
